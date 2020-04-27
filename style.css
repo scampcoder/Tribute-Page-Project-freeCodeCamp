@@ -1,0 +1,33 @@
+body {background-color: turquoise;}
+#main {
+  margin: 
+}
+#title {
+  text-align: center;
+  color: white;
+}
+#img-div {
+  text-align: center;
+}
+#image {
+  display: block;
+  margin: auto;
+  max-width: 100%;
+  height: auto;
+  border: solid;
+}
+#img-caption {
+  color: darkgreen;
+}
+#tribute-info {
+}
+#tribute-bullet {
+  font-size: large;
+}
+#tribute-link {
+  color: red;
+  text-align: center;
+}
+@media (max-width: 480px) {
+  img {width: 60vw;}
+}
